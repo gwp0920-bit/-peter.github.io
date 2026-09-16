@@ -1,2 +1,2 @@
-# -peter.github.io
+# peter.github.io
 peter first html
